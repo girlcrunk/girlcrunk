@@ -1,0 +1,26 @@
+## Hiiii 👋
+
+<!--
+**girlcrunk/girlcrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<p>My name is Dani, I'm an agroecologist and university researcher; and I am learning to code :) 
+  
+<p> I just now learned that if I created a repository with my github name, it would be a ✨ _special_ ✨ repository that would show up on my profile page and help others get to know me.</p>
+
+<p>I'm currently working on a variety of things, but mostly learning how to get web pages off the ground (ie focusing on HTML, CSS, and JavaScript). I'm a collaborator on a couple of projects and am also working on my own personal page.</p>
+
+
+
+  
