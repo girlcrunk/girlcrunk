@@ -1,4 +1,4 @@
-## Hiiii 👋
+<h2 align=center. Hiiii 👋 My name is Dani </h2>
 
 <!--
 **girlcrunk/girlcrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>My name is Dani, I'm an agroecologist and university researcher; and I am learning to code :) 
+<p>I'm an agroecolog🌱st and university researcher; and I am learning to code :) 
   
 <p> I just now learned that if I created a repository with my github name, it would be a ✨ _special_ ✨ repository that would show up on my profile page and help others get to know me.</p>
 
